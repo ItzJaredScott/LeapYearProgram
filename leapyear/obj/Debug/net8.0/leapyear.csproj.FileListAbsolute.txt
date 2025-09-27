@@ -1,0 +1,15 @@
+C:\Github\LeapYearProgram\leapyear\bin\Debug\net8.0\leapyear.exe
+C:\Github\LeapYearProgram\leapyear\bin\Debug\net8.0\leapyear.deps.json
+C:\Github\LeapYearProgram\leapyear\bin\Debug\net8.0\leapyear.runtimeconfig.json
+C:\Github\LeapYearProgram\leapyear\bin\Debug\net8.0\leapyear.dll
+C:\Github\LeapYearProgram\leapyear\bin\Debug\net8.0\leapyear.pdb
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.AssemblyInfoInputs.cache
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.AssemblyInfo.cs
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.csproj.CoreCompileInputs.cache
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.sourcelink.json
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.dll
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\refint\leapyear.dll
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.pdb
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\leapyear.genruntimeconfig.cache
+C:\Github\LeapYearProgram\leapyear\obj\Debug\net8.0\ref\leapyear.dll
